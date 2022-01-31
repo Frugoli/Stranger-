@@ -1,0 +1,11 @@
+body {
+    background: rgb(194, 194, 194);
+    text-align: center;
+}
+div#res {
+    margin-top: 25px;
+    font: normal 15pt Arial;
+}
+p#paisx {
+    font: normal 15pt Arial;
+}
